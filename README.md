@@ -1,5 +1,5 @@
 # carousel
-![Preview](./public/Carousel1.png)
+![Preview](https://github.com/ITDoctor40148/Vue-Carousel/tree/master/public/Carousel1.png)
 ## Project setup
 ```
 yarn install
