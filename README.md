@@ -1,5 +1,5 @@
 # carousel
-
+[Preview](./public/Carousel.png)
 ## Project setup
 ```
 yarn install
